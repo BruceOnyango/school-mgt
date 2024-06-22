@@ -61,4 +61,4 @@ For any questions or support, please contact brucejob1@gmail.com or create an is
 ![Screenshot 2](public/editData.png)
 
 # Sample Output Data
-![Screenshot 3](public/sampleData.png)
+![Screenshot 3](public/sampleDataEdited.png)
