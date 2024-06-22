@@ -24,14 +24,12 @@ This project is a Laravel application with an admin panel built using the Filame
     ```
         git clone https://github.com/BruceOnyango/school-mgt.git
         cd school-mgt
-
     ```
 
 2. **Create a new branch for your feature or bugfix:**
 
     ```
         git checkout -b feature-or-bugfix-name
-
     ```
 
 3. **Make your changes and commit them:**
@@ -39,22 +37,19 @@ This project is a Laravel application with an admin panel built using the Filame
     ```
         git add .
         git commit -m "Description of the changes"
-
     ```
 
 4. **Push to your branch:**
 
     ```
         git push origin feature-or-bugfix-name
-
     ```
 
 5. **Create a Pull Request:**
 
-    ```
-        Go to the original repository on GitHub and click on "New Pull Request" to submit your changes for review.
-    ```
+Go to the original repository on GitHub and click on "New Pull Request" to submit your changes for review.
+  
 
 ### Contact
 
-    -For any questions or support, please contact brucejob1@gmail.com or create an issue in the repository.
+For any questions or support, please contact brucejob1@gmail.com or create an issue in the repository.
