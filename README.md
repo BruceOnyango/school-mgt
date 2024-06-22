@@ -17,7 +17,7 @@ This project is a Laravel application with an admin panel built using the Filame
 - Laravel 8 or higher
 - Filament Admin Panel package
 
-### Installation
+### Installation and Contribute
 
 1. **Clone your forked repository:**
 
