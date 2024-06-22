@@ -53,3 +53,12 @@ Go to the original repository on GitHub and click on "New Pull Request" to submi
 ### Contact
 
 For any questions or support, please contact brucejob1@gmail.com or create an issue in the repository.
+
+# Dashboard
+![Screenshot 1](public/dashboard.png)
+
+# EditData Modal
+![Screenshot 2](public/editData.png)
+
+# Sample Output Data
+![Screenshot 3](public/sampleData.png)
